@@ -1,0 +1,27 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "Simple starter/boilerplate project using Node and NPM.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mysterycommand/hello-node.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "hello",
+    "world"
+  ],
+  "author": {
+    "name": "Matt Hayes",
+    "email": "matt@mysterycommand.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mysterycommand/hello-node/issues"
+  },
+  "homepage": "https://github.com/mysterycommand/hello-node#readme"
+}
