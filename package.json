@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/mysterycommand/hello-node/issues"
   },
-  "homepage": "https://github.com/mysterycommand/hello-node#readme"
+  "homepage": "https://github.com/mysterycommand/hello-node#readme",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "serve-static": "^1.10.0"
+  }
 }
